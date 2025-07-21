@@ -587,7 +587,7 @@ def contact_page():
         with col1:
             st.markdown("<div style='text-align: center; font-size: 2rem;'>📧</div>", unsafe_allow_html=True)
             st.markdown("<p style='text-align: center; font-weight: 600;'>Email</p>", unsafe_allow_html=True)
-            st.markdown("<p style='text-align: center; color: #10b981;'>@sulta.alam23@gmail.com</p>", unsafe_allow_html=True)
+            st.markdown("<p style='text-align: center; color: #10b981;'>sultan.alam23@gmail.com</p>", unsafe_allow_html=True)
         
         # with col2:
         #     st.markdown("<div style='text-align: center; font-size: 2rem;'>📍</div>", unsafe_allow_html=True)
