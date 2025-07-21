@@ -589,11 +589,11 @@ def contact_page():
             st.markdown("<p style='text-align: center; font-weight: 600;'>Email</p>", unsafe_allow_html=True)
             st.markdown("<p style='text-align: center; color: #10b981;'>@sulta.alam23@gmail.com</p>", unsafe_allow_html=True)
         
-        with col2:
-            st.markdown("<div style='text-align: center; font-size: 2rem;'>📍</div>", unsafe_allow_html=True)
-            st.markdown("<p style='text-align: center; font-weight: 600;'>Address</p>", unsafe_allow_html=True)
-            st.markdown("<p style='text-align: center; color: #10b981;'>VIT Bhopal University</p>", unsafe_allow_html=True)
-        st.markdown("</div>", unsafe_allow_html=True)
+        # with col2:
+        #     st.markdown("<div style='text-align: center; font-size: 2rem;'>📍</div>", unsafe_allow_html=True)
+        #     st.markdown("<p style='text-align: center; font-weight: 600;'>Address</p>", unsafe_allow_html=True)
+        #     st.markdown("<p style='text-align: center; color: #10b981;'>VIT Bhopal University</p>", unsafe_allow_html=True)
+        # st.markdown("</div>", unsafe_allow_html=True)
     
     # FAQ section
     st.markdown('<div class="section-container" style="background-color: #F0F7FF; border-radius: 1rem;">', unsafe_allow_html=True)
